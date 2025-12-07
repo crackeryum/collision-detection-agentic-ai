@@ -1,0 +1,6 @@
+path: dataset
+train: train
+val: val
+names:
+  0: accident
+  1: normal
